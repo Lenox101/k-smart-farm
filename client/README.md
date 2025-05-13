@@ -1,3 +1,3 @@
 # k-smart-farm
- K Smart Farm Kenya
-To run the Bakcend....Make sure you run node modules. Run 'npm install' on the parent folder
+Responsive frontend
+To run the Frontend....Run command serve-s dist or npm run serve-s dist
